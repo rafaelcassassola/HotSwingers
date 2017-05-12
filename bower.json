@@ -1,0 +1,21 @@
+{
+  "name": "HotSwingers",
+  "homepage": "https://github.com/rafaelcassassola/HotSwingers",
+  "authors": [
+    "rafaelcassassola <rafael.cassassola@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3"
+  }
+}
